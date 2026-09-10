@@ -1,0 +1,384 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5076653392893333122
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 313235693164645504}
+  - component: {fileID: 6308726215001250108}
+  m_Layer: 0
+  m_Name: surface
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &313235693164645504
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5076653392893333122}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6308726215001250108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5076653392893333122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc569109f0ac75d4c8795fc9d82b380a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hasSetUp: 0
+  spriteList:
+  - name: heitu_1
+    sprite: {fileID: 21300790, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_2
+    sprite: {fileID: 21300792, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_3
+    sprite: {fileID: 21300794, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_4
+    sprite: {fileID: 21300796, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_5
+    sprite: {fileID: 21300798, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_6
+    sprite: {fileID: 21300800, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_7
+    sprite: {fileID: 21300802, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_8
+    sprite: {fileID: 21300804, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_9
+    sprite: {fileID: 21300806, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_10
+    sprite: {fileID: 21300808, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_11
+    sprite: {fileID: 21300810, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_12
+    sprite: {fileID: 21300812, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_13
+    sprite: {fileID: 21300814, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_14
+    sprite: {fileID: 21300816, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_15
+    sprite: {fileID: 21300818, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_16
+    sprite: {fileID: 21300820, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_17
+    sprite: {fileID: 21300822, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_18
+    sprite: {fileID: 21300824, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_19
+    sprite: {fileID: 21300826, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_20
+    sprite: {fileID: 21300828, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_21
+    sprite: {fileID: 21300830, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_22
+    sprite: {fileID: 21300832, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_23
+    sprite: {fileID: 21300834, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_24
+    sprite: {fileID: 21300836, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_25
+    sprite: {fileID: 21300838, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_26
+    sprite: {fileID: 21300840, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_27
+    sprite: {fileID: 21300842, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_28
+    sprite: {fileID: 21300844, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_29
+    sprite: {fileID: 21300846, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_30
+    sprite: {fileID: 21300848, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_31
+    sprite: {fileID: 21300850, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_32
+    sprite: {fileID: 21300852, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_33
+    sprite: {fileID: 21300854, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_34
+    sprite: {fileID: 21300856, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_35
+    sprite: {fileID: 21300858, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_36
+    sprite: {fileID: 21300860, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_37
+    sprite: {fileID: 21300862, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_38
+    sprite: {fileID: 21300864, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_39
+    sprite: {fileID: 21300866, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_40
+    sprite: {fileID: 21300868, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_41
+    sprite: {fileID: 21300870, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_42
+    sprite: {fileID: 21300872, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_43
+    sprite: {fileID: 21300874, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_44
+    sprite: {fileID: 21300876, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_45
+    sprite: {fileID: 21300878, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_46
+    sprite: {fileID: 21300880, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_47
+    sprite: {fileID: 21300882, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_48
+    sprite: {fileID: 21300884, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_49
+    sprite: {fileID: 21300886, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_50
+    sprite: {fileID: 21300888, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_51
+    sprite: {fileID: 21300890, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_52
+    sprite: {fileID: 21300892, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_53
+    sprite: {fileID: 21300894, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_54
+    sprite: {fileID: 21300896, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_55
+    sprite: {fileID: 21300898, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_56
+    sprite: {fileID: 21300900, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_57
+    sprite: {fileID: 21300902, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_58
+    sprite: {fileID: 21300904, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_59
+    sprite: {fileID: 21300906, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_60
+    sprite: {fileID: 21300908, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_61
+    sprite: {fileID: 21300910, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_62
+    sprite: {fileID: 21300912, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_63
+    sprite: {fileID: 21300914, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: heitu_64
+    sprite: {fileID: 21300916, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_1
+    sprite: {fileID: 21300000, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_2
+    sprite: {fileID: 21300002, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_3
+    sprite: {fileID: 21300004, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_4
+    sprite: {fileID: 21300006, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_5
+    sprite: {fileID: 21300356, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_6
+    sprite: {fileID: 21300358, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_7
+    sprite: {fileID: 21300360, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_8
+    sprite: {fileID: 21300362, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_9
+    sprite: {fileID: 21300364, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_10
+    sprite: {fileID: 21300366, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_11
+    sprite: {fileID: 21300368, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_12
+    sprite: {fileID: 21300370, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_13
+    sprite: {fileID: 21300372, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_14
+    sprite: {fileID: 21300374, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_15
+    sprite: {fileID: 21300376, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_16
+    sprite: {fileID: 21300378, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_17
+    sprite: {fileID: 21300380, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_18
+    sprite: {fileID: 21300382, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_19
+    sprite: {fileID: 21300384, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_20
+    sprite: {fileID: 21300386, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_21
+    sprite: {fileID: 21300388, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_22
+    sprite: {fileID: 21300390, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_23
+    sprite: {fileID: 21300392, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_24
+    sprite: {fileID: 21300394, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_25
+    sprite: {fileID: 21300396, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_26
+    sprite: {fileID: 21300398, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_27
+    sprite: {fileID: 21300400, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_28
+    sprite: {fileID: 21300402, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_29
+    sprite: {fileID: 21300404, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_30
+    sprite: {fileID: 21300406, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_31
+    sprite: {fileID: 21300408, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_32
+    sprite: {fileID: 21300410, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_33
+    sprite: {fileID: 21300412, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_34
+    sprite: {fileID: 21300414, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_35
+    sprite: {fileID: 21300416, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_36
+    sprite: {fileID: 21300418, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_37
+    sprite: {fileID: 21300420, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_38
+    sprite: {fileID: 21300422, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_39
+    sprite: {fileID: 21300424, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_40
+    sprite: {fileID: 21300426, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_41
+    sprite: {fileID: 21300428, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_42
+    sprite: {fileID: 21300430, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_43
+    sprite: {fileID: 21300432, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_44
+    sprite: {fileID: 21300434, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_45
+    sprite: {fileID: 21300436, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_46
+    sprite: {fileID: 21300438, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_47
+    sprite: {fileID: 21300440, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_48
+    sprite: {fileID: 21300442, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_49
+    sprite: {fileID: 21300444, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_50
+    sprite: {fileID: 21300446, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_51
+    sprite: {fileID: 21300448, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_52
+    sprite: {fileID: 21300450, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_53
+    sprite: {fileID: 21300452, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_54
+    sprite: {fileID: 21300454, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_55
+    sprite: {fileID: 21300456, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_56
+    sprite: {fileID: 21300458, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_57
+    sprite: {fileID: 21300460, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_58
+    sprite: {fileID: 21300462, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_59
+    sprite: {fileID: 21300464, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_60
+    sprite: {fileID: 21300466, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_61
+    sprite: {fileID: 21300468, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_62
+    sprite: {fileID: 21300470, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_63
+    sprite: {fileID: 21300472, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_cao_64
+    sprite: {fileID: 21300474, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_lvcao_1
+    sprite: {fileID: 21300750, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_lvcao_2
+    sprite: {fileID: 21300752, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_lvcao_3
+    sprite: {fileID: 21300754, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_lvcao_4
+    sprite: {fileID: 21300756, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_1
+    sprite: {fileID: 21300758, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_2
+    sprite: {fileID: 21300760, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_3
+    sprite: {fileID: 21300762, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_4
+    sprite: {fileID: 21300764, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_5
+    sprite: {fileID: 21300766, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_6
+    sprite: {fileID: 21300768, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_7
+    sprite: {fileID: 21300770, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_8
+    sprite: {fileID: 21300772, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_9
+    sprite: {fileID: 21300774, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_10
+    sprite: {fileID: 21300776, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_11
+    sprite: {fileID: 21300778, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_12
+    sprite: {fileID: 21300780, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_13
+    sprite: {fileID: 21300782, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_14
+    sprite: {fileID: 21300784, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_15
+    sprite: {fileID: 21300786, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_tubian_16
+    sprite: {fileID: 21300788, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_1
+    sprite: {fileID: 21300140, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_2
+    sprite: {fileID: 21300142, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_3
+    sprite: {fileID: 21300144, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_4
+    sprite: {fileID: 21300146, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_5
+    sprite: {fileID: 21300148, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_6
+    sprite: {fileID: 21300150, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_7
+    sprite: {fileID: 21300152, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_8
+    sprite: {fileID: 21300154, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_9
+    sprite: {fileID: 21300156, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_10
+    sprite: {fileID: 21300158, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_11
+    sprite: {fileID: 21300160, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_12
+    sprite: {fileID: 21300162, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_13
+    sprite: {fileID: 21300164, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_14
+    sprite: {fileID: 21300166, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_15
+    sprite: {fileID: 21300168, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_16
+    sprite: {fileID: 21300170, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_17
+    sprite: {fileID: 21300172, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_18
+    sprite: {fileID: 21300174, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_19
+    sprite: {fileID: 21300176, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}
+  - name: world_xue_20
+    sprite: {fileID: 21300178, guid: 19a4adefd72715e439c1536debe20fe5, type: 3}

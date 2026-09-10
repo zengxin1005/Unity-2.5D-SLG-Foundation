@@ -1,0 +1,5334 @@
+fileFormatVersion: 2
+guid: 19a4adefd72715e439c1536debe20fe5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: world_cao_1
+  - first:
+      213: 21300002
+    second: world_cao_2
+  - first:
+      213: 21300004
+    second: world_cao_3
+  - first:
+      213: 21300006
+    second: world_cao_4
+  - first:
+      213: 21300008
+    second: world_color_1
+  - first:
+      213: 21300010
+    second: world_mountain_1_1
+  - first:
+      213: 21300012
+    second: world_mountain_1_2
+  - first:
+      213: 21300014
+    second: world_mountain_1_3
+  - first:
+      213: 21300016
+    second: world_mountain_1_4
+  - first:
+      213: 21300018
+    second: world_mountain_2
+  - first:
+      213: 21300020
+    second: world_mountain_3
+  - first:
+      213: 21300022
+    second: world_mountain_4
+  - first:
+      213: 21300024
+    second: world_mountain_5
+  - first:
+      213: 21300026
+    second: world_shi_0
+  - first:
+      213: 21300028
+    second: world_shi_1
+  - first:
+      213: 21300030
+    second: world_shi_2
+  - first:
+      213: 21300032
+    second: world_shi_3
+  - first:
+      213: 21300034
+    second: world_shui_0
+  - first:
+      213: 21300036
+    second: world_shui_1_1
+  - first:
+      213: 21300038
+    second: world_shui_1_2
+  - first:
+      213: 21300040
+    second: world_shui_2_1
+  - first:
+      213: 21300042
+    second: world_shui_2_2
+  - first:
+      213: 21300044
+    second: world_shui_3
+  - first:
+      213: 21300046
+    second: world_shui_4_1
+  - first:
+      213: 21300048
+    second: world_shui_4_2
+  - first:
+      213: 21300050
+    second: world_shui_5
+  - first:
+      213: 21300052
+    second: world_shui_6_1
+  - first:
+      213: 21300054
+    second: world_shui_6_2
+  - first:
+      213: 21300056
+    second: world_shui_7_1
+  - first:
+      213: 21300058
+    second: world_shui_7_2
+  - first:
+      213: 21300060
+    second: world_shui_7_3
+  - first:
+      213: 21300062
+    second: world_shui_8_1
+  - first:
+      213: 21300064
+    second: world_shui_8_2
+  - first:
+      213: 21300066
+    second: world_shui_9_1
+  - first:
+      213: 21300068
+    second: world_shui_9_2
+  - first:
+      213: 21300070
+    second: world_shui_10
+  - first:
+      213: 21300072
+    second: world_shui_11
+  - first:
+      213: 21300074
+    second: world_shui_12_1
+  - first:
+      213: 21300076
+    second: world_shui_12_2
+  - first:
+      213: 21300078
+    second: world_shui_13_1
+  - first:
+      213: 21300080
+    second: world_shui_13_2
+  - first:
+      213: 21300082
+    second: world_shui_14
+  - first:
+      213: 21300084
+    second: world_shui_15_1
+  - first:
+      213: 21300086
+    second: world_shui_15_2
+  - first:
+      213: 21300088
+    second: world_shui_16
+  - first:
+      213: 21300090
+    second: world_shui_17
+  - first:
+      213: 21300092
+    second: world_shui_18
+  - first:
+      213: 21300094
+    second: world_shui_19
+  - first:
+      213: 21300096
+    second: world_stone_1_1
+  - first:
+      213: 21300098
+    second: world_stone_1_2
+  - first:
+      213: 21300100
+    second: world_stone_1_3
+  - first:
+      213: 21300102
+    second: world_stone_1_4
+  - first:
+      213: 21300104
+    second: world_tree_1
+  - first:
+      213: 21300106
+    second: world_tree_2_1
+  - first:
+      213: 21300108
+    second: world_tree_2_2
+  - first:
+      213: 21300110
+    second: world_tree_2_3
+  - first:
+      213: 21300112
+    second: world_tree_2_4
+  - first:
+      213: 21300114
+    second: world_tree_3
+  - first:
+      213: 21300116
+    second: world_tree_4
+  - first:
+      213: 21300118
+    second: world_tree_5
+  - first:
+      213: 21300120
+    second: world_tree_6
+  - first:
+      213: 21300122
+    second: world_tree_7_1
+  - first:
+      213: 21300124
+    second: world_tree_7_2
+  - first:
+      213: 21300126
+    second: world_tree_7_3
+  - first:
+      213: 21300128
+    second: world_tree_7_4
+  - first:
+      213: 21300130
+    second: world_tree_8
+  - first:
+      213: 21300132
+    second: world_tree_9
+  - first:
+      213: 21300134
+    second: world_tree_10
+  - first:
+      213: 21300136
+    second: world_tree_11
+  - first:
+      213: 21300138
+    second: world_tree_12
+  - first:
+      213: 21300140
+    second: world_xue_1
+  - first:
+      213: 21300142
+    second: world_xue_2
+  - first:
+      213: 21300144
+    second: world_xue_3
+  - first:
+      213: 21300146
+    second: world_xue_4
+  - first:
+      213: 21300148
+    second: world_xue_5
+  - first:
+      213: 21300150
+    second: world_xue_6
+  - first:
+      213: 21300152
+    second: world_xue_7
+  - first:
+      213: 21300154
+    second: world_xue_8
+  - first:
+      213: 21300156
+    second: world_xue_9
+  - first:
+      213: 21300158
+    second: world_xue_10
+  - first:
+      213: 21300160
+    second: world_xue_11
+  - first:
+      213: 21300162
+    second: world_xue_12
+  - first:
+      213: 21300164
+    second: world_xue_13
+  - first:
+      213: 21300166
+    second: world_xue_14
+  - first:
+      213: 21300168
+    second: world_xue_15
+  - first:
+      213: 21300170
+    second: world_xue_16
+  - first:
+      213: 21300172
+    second: world_xue_17
+  - first:
+      213: 21300174
+    second: world_xue_18
+  - first:
+      213: 21300176
+    second: world_xue_19
+  - first:
+      213: 21300178
+    second: world_xue_20
+  - first:
+      213: 21300180
+    second: world_xue_21
+  - first:
+      213: 21300182
+    second: world_xue_22
+  - first:
+      213: 21300184
+    second: world_xue_23
+  - first:
+      213: 21300186
+    second: world_xue_24
+  - first:
+      213: 21300188
+    second: world_xue_25
+  - first:
+      213: 21300190
+    second: world_sha_1_1
+  - first:
+      213: 21300192
+    second: world_sha_1_2
+  - first:
+      213: 21300194
+    second: world_sha_2_1
+  - first:
+      213: 21300196
+    second: world_sha_2_1_2
+  - first:
+      213: 21300198
+    second: world_sha_2_2
+  - first:
+      213: 21300200
+    second: world_sha_2_3
+  - first:
+      213: 21300202
+    second: world_sha_2_3_2
+  - first:
+      213: 21300204
+    second: world_sha_2_4
+  - first:
+      213: 21300206
+    second: world_sha_3_1
+  - first:
+      213: 21300208
+    second: world_sha_3_2
+  - first:
+      213: 21300210
+    second: world_sha_4_1
+  - first:
+      213: 21300212
+    second: world_sha_4_2
+  - first:
+      213: 21300214
+    second: world_sha_5_1
+  - first:
+      213: 21300216
+    second: world_sha_5_2
+  - first:
+      213: 21300218
+    second: world_sha_6_1
+  - first:
+      213: 21300220
+    second: world_sha_6_2
+  - first:
+      213: 21300222
+    second: world_sha_6_3
+  - first:
+      213: 21300224
+    second: world_sha_6_4
+  - first:
+      213: 21300226
+    second: world_sha_7_1
+  - first:
+      213: 21300228
+    second: world_sha_7_2
+  - first:
+      213: 21300230
+    second: world_zhuangshi_1
+  - first:
+      213: 21300232
+    second: world_zhuangshi_2
+  - first:
+      213: 21300234
+    second: world_zhuangshi_3
+  - first:
+      213: 21300236
+    second: world_zhuangshi_4
+  - first:
+      213: 21300238
+    second: world_zhuangshi_5
+  - first:
+      213: 21300240
+    second: world_zhuangshi_6
+  - first:
+      213: 21300242
+    second: world_zhuangshi_7
+  - first:
+      213: 21300244
+    second: world_zhuangshi_8
+  - first:
+      213: 21300246
+    second: world_zhuangshi_9
+  - first:
+      213: 21300248
+    second: world_zhuangshi_10
+  - first:
+      213: 21300250
+    second: world_sha_8_1
+  - first:
+      213: 21300252
+    second: world_sha_8_2
+  - first:
+      213: 21300254
+    second: world_sha_8_3
+  - first:
+      213: 21300256
+    second: world_sha_8_4
+  - first:
+      213: 21300258
+    second: world_sha_8_5
+  - first:
+      213: 21300260
+    second: world_sha_8_6
+  - first:
+      213: 21300262
+    second: world_sha_8_7
+  - first:
+      213: 21300264
+    second: world_sha_8_8
+  - first:
+      213: 21300266
+    second: world_sha_8_9
+  - first:
+      213: 21300268
+    second: world_sha_8_10
+  - first:
+      213: 21300270
+    second: world_sha_8_11
+  - first:
+      213: 21300272
+    second: world_sha_8_12
+  - first:
+      213: 21300274
+    second: world_sha_8_13
+  - first:
+      213: 21300276
+    second: world_zhuangshi_14
+  - first:
+      213: 21300278
+    second: world_zhuangshi_15
+  - first:
+      213: 21300280
+    second: world_zhuangshi_21
+  - first:
+      213: 21300282
+    second: world_zhuangshi_22
+  - first:
+      213: 21300284
+    second: world_huangcheng_1
+  - first:
+      213: 21300286
+    second: world_huangcheng_2
+  - first:
+      213: 21300288
+    second: world_huangcheng_3
+  - first:
+      213: 21300290
+    second: world_huangcheng_4
+  - first:
+      213: 21300292
+    second: world_huangcheng_5
+  - first:
+      213: 21300294
+    second: world_huangcheng_6
+  - first:
+      213: 21300296
+    second: world_huangcheng_7
+  - first:
+      213: 21300298
+    second: world_huangcheng_8
+  - first:
+      213: 21300300
+    second: world_huangcheng_9
+  - first:
+      213: 21300302
+    second: world_huangcheng_10
+  - first:
+      213: 21300304
+    second: world_huangcheng_11
+  - first:
+      213: 21300306
+    second: world_huangcheng_12
+  - first:
+      213: 21300308
+    second: world_huangcheng_13
+  - first:
+      213: 21300310
+    second: world_huangcheng_14
+  - first:
+      213: 21300312
+    second: world_huangcheng_15
+  - first:
+      213: 21300314
+    second: world_huangcheng_16
+  - first:
+      213: 21300316
+    second: world_huangcheng_17
+  - first:
+      213: 21300318
+    second: world_huangcheng_18
+  - first:
+      213: 21300320
+    second: world_huangcheng_19
+  - first:
+      213: 21300322
+    second: world_huangcheng_20
+  - first:
+      213: 21300324
+    second: world_huangcheng_21
+  - first:
+      213: 21300326
+    second: world_huangcheng_22
+  - first:
+      213: 21300328
+    second: world_huangcheng_23
+  - first:
+      213: 21300330
+    second: world_huangcheng_24
+  - first:
+      213: 21300332
+    second: world_huangcheng_25
+  - first:
+      213: 21300334
+    second: world_huangcheng_26
+  - first:
+      213: 21300336
+    second: world_huangcheng_27
+  - first:
+      213: 21300338
+    second: world_huangcheng_28
+  - first:
+      213: 21300340
+    second: world_huangcheng_29
+  - first:
+      213: 21300342
+    second: world_huangcheng_30
+  - first:
+      213: 21300344
+    second: world_huangcheng_31
+  - first:
+      213: 21300346
+    second: world_huangcheng_32
+  - first:
+      213: 21300348
+    second: world_huangcheng_33
+  - first:
+      213: 21300350
+    second: world_huangcheng_34
+  - first:
+      213: 21300352
+    second: world_huangcheng_35
+  - first:
+      213: 21300354
+    second: world_huangcheng_36
+  - first:
+      213: 21300356
+    second: world_cao_5
+  - first:
+      213: 21300358
+    second: world_cao_6
+  - first:
+      213: 21300360
+    second: world_cao_7
+  - first:
+      213: 21300362
+    second: world_cao_8
+  - first:
+      213: 21300364
+    second: world_cao_9
+  - first:
+      213: 21300366
+    second: world_cao_10
+  - first:
+      213: 21300368
+    second: world_cao_11
+  - first:
+      213: 21300370
+    second: world_cao_12
+  - first:
+      213: 21300372
+    second: world_cao_13
+  - first:
+      213: 21300374
+    second: world_cao_14
+  - first:
+      213: 21300376
+    second: world_cao_15
+  - first:
+      213: 21300378
+    second: world_cao_16
+  - first:
+      213: 21300380
+    second: world_cao_17
+  - first:
+      213: 21300382
+    second: world_cao_18
+  - first:
+      213: 21300384
+    second: world_cao_19
+  - first:
+      213: 21300386
+    second: world_cao_20
+  - first:
+      213: 21300388
+    second: world_cao_21
+  - first:
+      213: 21300390
+    second: world_cao_22
+  - first:
+      213: 21300392
+    second: world_cao_23
+  - first:
+      213: 21300394
+    second: world_cao_24
+  - first:
+      213: 21300396
+    second: world_cao_25
+  - first:
+      213: 21300398
+    second: world_cao_26
+  - first:
+      213: 21300400
+    second: world_cao_27
+  - first:
+      213: 21300402
+    second: world_cao_28
+  - first:
+      213: 21300404
+    second: world_cao_29
+  - first:
+      213: 21300406
+    second: world_cao_30
+  - first:
+      213: 21300408
+    second: world_cao_31
+  - first:
+      213: 21300410
+    second: world_cao_32
+  - first:
+      213: 21300412
+    second: world_cao_33
+  - first:
+      213: 21300414
+    second: world_cao_34
+  - first:
+      213: 21300416
+    second: world_cao_35
+  - first:
+      213: 21300418
+    second: world_cao_36
+  - first:
+      213: 21300420
+    second: world_cao_37
+  - first:
+      213: 21300422
+    second: world_cao_38
+  - first:
+      213: 21300424
+    second: world_cao_39
+  - first:
+      213: 21300426
+    second: world_cao_40
+  - first:
+      213: 21300428
+    second: world_cao_41
+  - first:
+      213: 21300430
+    second: world_cao_42
+  - first:
+      213: 21300432
+    second: world_cao_43
+  - first:
+      213: 21300434
+    second: world_cao_44
+  - first:
+      213: 21300436
+    second: world_cao_45
+  - first:
+      213: 21300438
+    second: world_cao_46
+  - first:
+      213: 21300440
+    second: world_cao_47
+  - first:
+      213: 21300442
+    second: world_cao_48
+  - first:
+      213: 21300444
+    second: world_cao_49
+  - first:
+      213: 21300446
+    second: world_cao_50
+  - first:
+      213: 21300448
+    second: world_cao_51
+  - first:
+      213: 21300450
+    second: world_cao_52
+  - first:
+      213: 21300452
+    second: world_cao_53
+  - first:
+      213: 21300454
+    second: world_cao_54
+  - first:
+      213: 21300456
+    second: world_cao_55
+  - first:
+      213: 21300458
+    second: world_cao_56
+  - first:
+      213: 21300460
+    second: world_cao_57
+  - first:
+      213: 21300462
+    second: world_cao_58
+  - first:
+      213: 21300464
+    second: world_cao_59
+  - first:
+      213: 21300466
+    second: world_cao_60
+  - first:
+      213: 21300468
+    second: world_cao_61
+  - first:
+      213: 21300470
+    second: world_cao_62
+  - first:
+      213: 21300472
+    second: world_cao_63
+  - first:
+      213: 21300474
+    second: world_cao_64
+  - first:
+      213: 21300476
+    second: world_cao_65
+  - first:
+      213: 21300478
+    second: world_cao_66
+  - first:
+      213: 21300480
+    second: world_cao_67
+  - first:
+      213: 21300482
+    second: world_cao_68
+  - first:
+      213: 21300484
+    second: world_shadi_1
+  - first:
+      213: 21300486
+    second: world_shadi_2
+  - first:
+      213: 21300488
+    second: world_shadi_3
+  - first:
+      213: 21300490
+    second: world_shadi_4
+  - first:
+      213: 21300492
+    second: world_shadi_5
+  - first:
+      213: 21300494
+    second: world_shadi_6
+  - first:
+      213: 21300496
+    second: world_shadi_7
+  - first:
+      213: 21300498
+    second: world_shadi_8
+  - first:
+      213: 21300500
+    second: world_shadi_9
+  - first:
+      213: 21300502
+    second: world_shadi_10
+  - first:
+      213: 21300504
+    second: world_shadi_11
+  - first:
+      213: 21300506
+    second: world_shadi_12
+  - first:
+      213: 21300508
+    second: world_shadi_13
+  - first:
+      213: 21300510
+    second: world_shadi_14
+  - first:
+      213: 21300512
+    second: world_shadi_15
+  - first:
+      213: 21300514
+    second: world_shadi_16
+  - first:
+      213: 21300516
+    second: world_shadi_17
+  - first:
+      213: 21300518
+    second: world_shadi_18
+  - first:
+      213: 21300520
+    second: world_shadi_19
+  - first:
+      213: 21300522
+    second: world_shadi_20
+  - first:
+      213: 21300524
+    second: world_cao_411
+  - first:
+      213: 21300526
+    second: world_cao_591
+  - first:
+      213: 21300528
+    second: world_daolu_6
+  - first:
+      213: 21300530
+    second: world_daolu_7
+  - first:
+      213: 21300532
+    second: world_daolu_8
+  - first:
+      213: 21300534
+    second: qiang_01
+  - first:
+      213: 21300536
+    second: qiang_02
+  - first:
+      213: 21300538
+    second: qiang_03
+  - first:
+      213: 21300540
+    second: qiang_04
+  - first:
+      213: 21300542
+    second: qiang_05
+  - first:
+      213: 21300544
+    second: qiang_06
+  - first:
+      213: 21300546
+    second: qiang_07
+  - first:
+      213: 21300548
+    second: qiang_08
+  - first:
+      213: 21300550
+    second: qiang_09
+  - first:
+      213: 21300552
+    second: qiang_10
+  - first:
+      213: 21300554
+    second: qiang_11
+  - first:
+      213: 21300556
+    second: qiang_12
+  - first:
+      213: 21300558
+    second: qiang_13
+  - first:
+      213: 21300560
+    second: qiang_14
+  - first:
+      213: 21300562
+    second: qiang_15
+  - first:
+      213: 21300564
+    second: qiang_16
+  - first:
+      213: 21300566
+    second: qiang_17
+  - first:
+      213: 21300568
+    second: qiang_18
+  - first:
+      213: 21300570
+    second: qiang_19
+  - first:
+      213: 21300572
+    second: qiang_20
+  - first:
+      213: 21300574
+    second: qiang_21
+  - first:
+      213: 21300576
+    second: qiang_22
+  - first:
+      213: 21300578
+    second: qiang_23
+  - first:
+      213: 21300580
+    second: qiang_24
+  - first:
+      213: 21300582
+    second: qiang_25
+  - first:
+      213: 21300584
+    second: qiang_26
+  - first:
+      213: 21300586
+    second: qiang_27
+  - first:
+      213: 21300588
+    second: qiang_28
+  - first:
+      213: 21300590
+    second: qiang_29
+  - first:
+      213: 21300592
+    second: qiang_30
+  - first:
+      213: 21300594
+    second: qiang_31
+  - first:
+      213: 21300596
+    second: qiang_32
+  - first:
+      213: 21300598
+    second: qiang_33
+  - first:
+      213: 21300600
+    second: qiang_34
+  - first:
+      213: 21300602
+    second: qiang_35
+  - first:
+      213: 21300604
+    second: qiang_36
+  - first:
+      213: 21300606
+    second: qiang_37
+  - first:
+      213: 21300608
+    second: qiang_38
+  - first:
+      213: 21300610
+    second: qiang_39
+  - first:
+      213: 21300612
+    second: qiang_40
+  - first:
+      213: 21300614
+    second: qiang_41
+  - first:
+      213: 21300616
+    second: qiang_42
+  - first:
+      213: 21300618
+    second: qiang_43
+  - first:
+      213: 21300620
+    second: qiang_44
+  - first:
+      213: 21300622
+    second: qiang_45
+  - first:
+      213: 21300624
+    second: qiang_46
+  - first:
+      213: 21300626
+    second: qiang_47
+  - first:
+      213: 21300628
+    second: qiang_48
+  - first:
+      213: 21300630
+    second: qiang_49
+  - first:
+      213: 21300632
+    second: qiang_50
+  - first:
+      213: 21300634
+    second: qiang_51
+  - first:
+      213: 21300636
+    second: qiang_52
+  - first:
+      213: 21300638
+    second: qiang_53
+  - first:
+      213: 21300640
+    second: qiang_54
+  - first:
+      213: 21300642
+    second: qiang_55
+  - first:
+      213: 21300644
+    second: qiang_56
+  - first:
+      213: 21300646
+    second: qiang_57
+  - first:
+      213: 21300648
+    second: qiang_58
+  - first:
+      213: 21300650
+    second: qiang_59
+  - first:
+      213: 21300652
+    second: qiang_60
+  - first:
+      213: 21300654
+    second: qiang_61
+  - first:
+      213: 21300656
+    second: qiang_62
+  - first:
+      213: 21300658
+    second: qiang_63
+  - first:
+      213: 21300660
+    second: qiang_64
+  - first:
+      213: 21300662
+    second: qiang_65
+  - first:
+      213: 21300664
+    second: qiang_66
+  - first:
+      213: 21300666
+    second: qiang_67
+  - first:
+      213: 21300668
+    second: qiang_68
+  - first:
+      213: 21300670
+    second: qiang_69
+  - first:
+      213: 21300672
+    second: qiang_70
+  - first:
+      213: 21300674
+    second: qiang_71
+  - first:
+      213: 21300676
+    second: qiang_72
+  - first:
+      213: 21300678
+    second: qiang_73
+  - first:
+      213: 21300680
+    second: qiang_74
+  - first:
+      213: 21300682
+    second: qiang_75
+  - first:
+      213: 21300684
+    second: qiang_76
+  - first:
+      213: 21300686
+    second: qiang_77
+  - first:
+      213: 21300688
+    second: qiang_78
+  - first:
+      213: 21300690
+    second: qiang_79
+  - first:
+      213: 21300692
+    second: qiang_80
+  - first:
+      213: 21300694
+    second: qiang_81
+  - first:
+      213: 21300696
+    second: qiang_82
+  - first:
+      213: 21300698
+    second: qiang_83
+  - first:
+      213: 21300700
+    second: qiang_84
+  - first:
+      213: 21300702
+    second: qiang_85
+  - first:
+      213: 21300704
+    second: qiang_86
+  - first:
+      213: 21300706
+    second: qiang_87
+  - first:
+      213: 21300708
+    second: qiang_88
+  - first:
+      213: 21300710
+    second: qiang_89
+  - first:
+      213: 21300712
+    second: qiang_90
+  - first:
+      213: 21300714
+    second: qiang_91
+  - first:
+      213: 21300716
+    second: qiang_92
+  - first:
+      213: 21300718
+    second: qiang_93
+  - first:
+      213: 21300720
+    second: qiang_94
+  - first:
+      213: 21300722
+    second: qiang_95
+  - first:
+      213: 21300724
+    second: qiang_96
+  - first:
+      213: 21300726
+    second: qiang_97
+  - first:
+      213: 21300728
+    second: qiang_98
+  - first:
+      213: 21300730
+    second: qiang_99
+  - first:
+      213: 21300732
+    second: qiang_100
+  - first:
+      213: 21300734
+    second: qiang_101
+  - first:
+      213: 21300736
+    second: qiang_102
+  - first:
+      213: 21300738
+    second: qiang_103
+  - first:
+      213: 21300740
+    second: qiang_104
+  - first:
+      213: 21300742
+    second: qiang_105
+  - first:
+      213: 21300744
+    second: qiang_106
+  - first:
+      213: 21300746
+    second: qiang_107
+  - first:
+      213: 21300748
+    second: qiang_108
+  - first:
+      213: 21300750
+    second: world_lvcao_1
+  - first:
+      213: 21300752
+    second: world_lvcao_2
+  - first:
+      213: 21300754
+    second: world_lvcao_3
+  - first:
+      213: 21300756
+    second: world_lvcao_4
+  - first:
+      213: 21300758
+    second: world_tubian_1
+  - first:
+      213: 21300760
+    second: world_tubian_2
+  - first:
+      213: 21300762
+    second: world_tubian_3
+  - first:
+      213: 21300764
+    second: world_tubian_4
+  - first:
+      213: 21300766
+    second: world_tubian_5
+  - first:
+      213: 21300768
+    second: world_tubian_6
+  - first:
+      213: 21300770
+    second: world_tubian_7
+  - first:
+      213: 21300772
+    second: world_tubian_8
+  - first:
+      213: 21300774
+    second: world_tubian_9
+  - first:
+      213: 21300776
+    second: world_tubian_10
+  - first:
+      213: 21300778
+    second: world_tubian_11
+  - first:
+      213: 21300780
+    second: world_tubian_12
+  - first:
+      213: 21300782
+    second: world_tubian_13
+  - first:
+      213: 21300784
+    second: world_tubian_14
+  - first:
+      213: 21300786
+    second: world_tubian_15
+  - first:
+      213: 21300788
+    second: world_tubian_16
+  - first:
+      213: 21300790
+    second: heitu_1
+  - first:
+      213: 21300792
+    second: heitu_2
+  - first:
+      213: 21300794
+    second: heitu_3
+  - first:
+      213: 21300796
+    second: heitu_4
+  - first:
+      213: 21300798
+    second: heitu_5
+  - first:
+      213: 21300800
+    second: heitu_6
+  - first:
+      213: 21300802
+    second: heitu_7
+  - first:
+      213: 21300804
+    second: heitu_8
+  - first:
+      213: 21300806
+    second: heitu_9
+  - first:
+      213: 21300808
+    second: heitu_10
+  - first:
+      213: 21300810
+    second: heitu_11
+  - first:
+      213: 21300812
+    second: heitu_12
+  - first:
+      213: 21300814
+    second: heitu_13
+  - first:
+      213: 21300816
+    second: heitu_14
+  - first:
+      213: 21300818
+    second: heitu_15
+  - first:
+      213: 21300820
+    second: heitu_16
+  - first:
+      213: 21300822
+    second: heitu_17
+  - first:
+      213: 21300824
+    second: heitu_18
+  - first:
+      213: 21300826
+    second: heitu_19
+  - first:
+      213: 21300828
+    second: heitu_20
+  - first:
+      213: 21300830
+    second: heitu_21
+  - first:
+      213: 21300832
+    second: heitu_22
+  - first:
+      213: 21300834
+    second: heitu_23
+  - first:
+      213: 21300836
+    second: heitu_24
+  - first:
+      213: 21300838
+    second: heitu_25
+  - first:
+      213: 21300840
+    second: heitu_26
+  - first:
+      213: 21300842
+    second: heitu_27
+  - first:
+      213: 21300844
+    second: heitu_28
+  - first:
+      213: 21300846
+    second: heitu_29
+  - first:
+      213: 21300848
+    second: heitu_30
+  - first:
+      213: 21300850
+    second: heitu_31
+  - first:
+      213: 21300852
+    second: heitu_32
+  - first:
+      213: 21300854
+    second: heitu_33
+  - first:
+      213: 21300856
+    second: heitu_34
+  - first:
+      213: 21300858
+    second: heitu_35
+  - first:
+      213: 21300860
+    second: heitu_36
+  - first:
+      213: 21300862
+    second: heitu_37
+  - first:
+      213: 21300864
+    second: heitu_38
+  - first:
+      213: 21300866
+    second: heitu_39
+  - first:
+      213: 21300868
+    second: heitu_40
+  - first:
+      213: 21300870
+    second: heitu_41
+  - first:
+      213: 21300872
+    second: heitu_42
+  - first:
+      213: 21300874
+    second: heitu_43
+  - first:
+      213: 21300876
+    second: heitu_44
+  - first:
+      213: 21300878
+    second: heitu_45
+  - first:
+      213: 21300880
+    second: heitu_46
+  - first:
+      213: 21300882
+    second: heitu_47
+  - first:
+      213: 21300884
+    second: heitu_48
+  - first:
+      213: 21300886
+    second: heitu_49
+  - first:
+      213: 21300888
+    second: heitu_50
+  - first:
+      213: 21300890
+    second: heitu_51
+  - first:
+      213: 21300892
+    second: heitu_52
+  - first:
+      213: 21300894
+    second: heitu_53
+  - first:
+      213: 21300896
+    second: heitu_54
+  - first:
+      213: 21300898
+    second: heitu_55
+  - first:
+      213: 21300900
+    second: heitu_56
+  - first:
+      213: 21300902
+    second: heitu_57
+  - first:
+      213: 21300904
+    second: heitu_58
+  - first:
+      213: 21300906
+    second: heitu_59
+  - first:
+      213: 21300908
+    second: heitu_60
+  - first:
+      213: 21300910
+    second: heitu_61
+  - first:
+      213: 21300912
+    second: heitu_62
+  - first:
+      213: 21300914
+    second: heitu_63
+  - first:
+      213: 21300916
+    second: heitu_64
+  - first:
+      213: 21300918
+    second: heitu_65
+  - first:
+      213: 21300920
+    second: heitu_66
+  - first:
+      213: 21300922
+    second: heitu_67
+  - first:
+      213: 21300924
+    second: heitu_68
+  - first:
+      213: 21300926
+    second: heitu_69
+  - first:
+      213: 21300928
+    second: heitu_70
+  - first:
+      213: 21300930
+    second: heitu_71
+  - first:
+      213: 21300932
+    second: heitu_72
+  - first:
+      213: 21300934
+    second: heitu_73
+  - first:
+      213: 21300936
+    second: heitu_74
+  - first:
+      213: 21300938
+    second: heitu_75
+  - first:
+      213: 21300940
+    second: heitu_76
+  - first:
+      213: 21300942
+    second: heitu_77
+  - first:
+      213: 21300944
+    second: heitu_78
+  - first:
+      213: 21300946
+    second: heitu_79
+  - first:
+      213: 21300948
+    second: heitu_80
+  - first:
+      213: 21300950
+    second: heitu_81
+  - first:
+      213: 21300952
+    second: heitu_82
+  - first:
+      213: 21300954
+    second: heitu_83
+  - first:
+      213: 21300956
+    second: heitu_84
+  - first:
+      213: 21300958
+    second: heitu_85
+  - first:
+      213: 21300960
+    second: heitu_86
+  - first:
+      213: 21300962
+    second: heitu_87
+  - first:
+      213: 21300964
+    second: heitu_88
+  - first:
+      213: 21300966
+    second: heitu_89
+  - first:
+      213: 21300968
+    second: heitu_90
+  - first:
+      213: 21300970
+    second: heitu_91
+  - first:
+      213: 21300972
+    second: heitu_92
+  - first:
+      213: 21300974
+    second: heitu_93
+  - first:
+      213: 21300976
+    second: heitu_94
+  - first:
+      213: 21300978
+    second: heitu_95
+  - first:
+      213: 21300980
+    second: heitu_96
+  - first:
+      213: 21300982
+    second: heitu_97
+  - first:
+      213: 21300984
+    second: heitu_98
+  - first:
+      213: 21300986
+    second: heitu_99
+  - first:
+      213: 21300988
+    second: heitu_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 254
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heitu_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 400
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3363a730043004f84c023605f1d302
+      internalID: 21300790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_2
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1230
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e65968d7cd3ef4a8693dfa815d2ae0
+      internalID: 21300792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1345
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b70f929db65a24692f7176cff78019
+      internalID: 21300794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1493
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776b2b96ac96d9c4fbda90de3ca23ace
+      internalID: 21300796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_5
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1768
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed446f2409c5f1b4999df518c66dfc77
+      internalID: 21300798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1770
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408d38e964603fb4eb93d6ddea800eb1
+      internalID: 21300800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_7
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1499
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25563e70eb90c5440b172df2e9eee04e
+      internalID: 21300802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_8
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1428
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4211ecd3c4a6b5a45bdc624698831ef2
+      internalID: 21300804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_9
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1563
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024b98f6f2519d448a646f24ed72d405
+      internalID: 21300806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_10
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1157
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0492266ae23b349bf893d0f1dac1fd
+      internalID: 21300808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_11
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1291
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7912a7ae7317f8d4fa36a20ece23d461
+      internalID: 21300810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_12
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1224
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c7c661f8b14d548a0ddedd16c9f897
+      internalID: 21300812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_13
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1090
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4e298ec3a90a944b65437b89039770
+      internalID: 21300814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1493
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d361ef90d2536c240a5352c0c8b3e2f1
+      internalID: 21300816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_15
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1359
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274125f6e855f5243b0092a54924e163
+      internalID: 21300818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1560
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b91b8d64bb951438eb8f2b4ee10e62
+      internalID: 21300820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1631
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aec5b6ee7463aa41bbbb93ea6d221c9
+      internalID: 21300822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_18
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1358
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a655ae7e21f0145a4fb0e8dd5fa59b
+      internalID: 21300824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_19
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1426
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996780acb3ab52549a5f11b162dc9e7c
+      internalID: 21300826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_20
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1365
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86fa9f141621d245b3af83783c828a2
+      internalID: 21300828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_21
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1297
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d5c961b59bc5c4fad02692f875b916
+      internalID: 21300830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_22
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1227
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e196d063694cd41ab0e309b04a32d4
+      internalID: 21300832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_23
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1432
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db76fa72a30096c46b5f6a2cc016be2a
+      internalID: 21300834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_24
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1160
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8b04809dd80c04a9d39dcbbea04022
+      internalID: 21300836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_25
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1093
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b7f35735f731b4eb8dc64e4cb406e5
+      internalID: 21300838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_26
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1298
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cb0644af070594f8235250b59c99c6
+      internalID: 21300840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_27
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1163
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a7a1455bd5a7b45b5678bd495d256c
+      internalID: 21300842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_28
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1291
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8f67142f3658c48bf5c61b40241e03
+      internalID: 21300844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_29
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1426
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcd8440468046a49a190bbd8dee7a4b
+      internalID: 21300846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1156
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fd6c67560fc9b43bec3f1394eb3881
+      internalID: 21300848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_31
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1089
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cf0c4278dd72b42af83895e6296d11
+      internalID: 21300850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1277
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e743a02c2ad2984d9c2d78bb6f05c72
+      internalID: 21300852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1210
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f01bb108cd293e4abe0de2295f14ccc
+      internalID: 21300854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1210
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71294894c174d9a46a57881911fc9f43
+      internalID: 21300856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_35
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1142
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8433478b4024cef44bcd166e3fc216cb
+      internalID: 21300858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_36
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1075
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f32cdc3ee22c87419918c6926d8567f
+      internalID: 21300860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1426
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9271fc1f09c3d44855ce8bfc88cf4e
+      internalID: 21300862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1358
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb98976d3d779a0448454b42ed15b169
+      internalID: 21300864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_39
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1223
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c534e8f45c1cc66468480d9ea532b3df
+      internalID: 21300866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1563
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4ceb6266fdce142b658ae0395cbb64
+      internalID: 21300868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_41
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1156
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de07ee3ffa250e44b44532a0196413d
+      internalID: 21300870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_42
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1089
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2076d21be46c04042a1000a6383436b3
+      internalID: 21300872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_43
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1224
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d32de4580b6ae49a1ca86b829b87f7
+      internalID: 21300874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_44
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1566
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ebf99bd2642954fb53c90856657e22
+      internalID: 21300876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_45
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1292
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f413a04d60c053246950d7a94270ba04
+      internalID: 21300878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_46
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1143
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f8d09b6fffef946875e7a91b861e26
+      internalID: 21300880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_47
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1782
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2740231cd0ca07429543472e9f335f4
+      internalID: 21300882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_48
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1849
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5183a8d6ed2c54c88f9716ed284702
+      internalID: 21300884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_49
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1835
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89779765c3c44e24abb39aa9c1b0e1b8
+      internalID: 21300886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_50
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1902
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f5e91e90f8db54f95537130c46bbde
+      internalID: 21300888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_51
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1916
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4ad2440054f2d469138ab2f8a0a8bc
+      internalID: 21300890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_52
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1768
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a749e0d7a69238e47be6993ed786560e
+      internalID: 21300892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_53
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1566
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e04115afba2f0f4f9a9f0f134f1e8ce
+      internalID: 21300894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_54
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1701
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab201679e924b845aa64c38aaa1e300
+      internalID: 21300896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_55
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1633
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03938d9edb45c2b47ad18b29236509dd
+      internalID: 21300898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_56
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1917
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc08c87018f809498d489ce5cd6d3c2
+      internalID: 21300900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_57
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1700
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bf53a9488feb84d822e80ba7c49096
+      internalID: 21300902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_58
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1838
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898d1ed6435d0434ab5fd733b6969bb1
+      internalID: 21300904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_59
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1908
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b827ee14adf310640a051b53eb7b2e4d
+      internalID: 21300906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_60
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1701
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f591fdbe0ba614f4da63ecd5a9e8a75d
+      internalID: 21300908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_61
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1835
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbed702ea50d3c47b808ca64c681c25
+      internalID: 21300910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_62
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1768
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd448663b583534b895ea6184cc6431
+      internalID: 21300912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_63
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1905
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f76ce88ac5ad4a44a110165f5a0b619
+      internalID: 21300914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heitu_64
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1634
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54553dc79fed1634db3375a7c8116112
+      internalID: 21300916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1630
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9f9db032d99ce4aa1038e4f0c15c2e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_2
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1701
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212698baad95075439f8badf6ff74cf1
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 298
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96972d6e76767f7449f35b989c40caf8
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 806
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7798688b94a90489e406d95a7df1e9
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 528
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcf80f0a25d28c4ea4ddbbd3a1ee811
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_6
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1059
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cc205e574200c42ac75b2bba85187c
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_7
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 941
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec35be3057f46634ab22e59c362d33b1
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_8
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 874
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db5a4b79471a8048ae1348413c5fc46
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_9
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 989
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9c74ef0f9c29f42a1da3c1db69be63
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_10
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1361
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90751f0e4737e05448633eb4c3ad369a
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1702
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a742667729d0e47b5af322d10d6e15
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_12
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1432
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68880eed3ab9b6741a977268f9e35410
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_13
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1364
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671586e9729733542b337c6c53a3962f
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_14
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1294
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e2b19e398c35945ab3f3ef1b033c7f
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1496
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef8c39511aec4743af15e781339795c
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_16
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1431
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29eaf7e6f4f296242ab22fdcbd533d80
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_17
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1498
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2606cfce2d44d4e48863f7392ea5dc88
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_18
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1633
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d635257152cdfa42ace045e81f0f058
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_19
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1850
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471a5a8539080624f81c7771dbe0d3dd
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_20
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1566
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d87eb7b31bf1bd4397160457e64c6a7
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_21
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1715
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e07a1e6bf1bb5b428fecd95f4fc9d22
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_22
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1499
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a65778eec07044b8b6bb933548fb4d
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_23
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1634
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38c69d0992a9934ba552f8bd260058d
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_24
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1566
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485a373cb2a8fae49b91d36e7063b4e1
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1643
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ebf4463b0d3d4499373fe547b51243
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_26
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1023
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f264f07154704243be9cb0c4ac43629
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_27
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 434
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0702be43c0959524aabede761f96d4e3
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1075
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aafcd8885ff484a8d0724bbe2ed70c
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 264
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997b0808250b12448a39ce8bf0e7ba97
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 230
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffa67ebb90542d4da9599898eef98f6
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 332
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e339d4ba8d4e124996a30ec543bf6d6
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_32
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 468
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea97ec45a6310f4eaea1ba6f9fcf0dd
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_33
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 604
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa65ee340eb75e4bb0e262df3b40bf9
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_34
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 502
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8983a75c130bb4a46a0bf342903655aa
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_35
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 569
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d4c19dcb196cd41872fa844f997dc2
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_36
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 536
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5fcf5b3ea6eed49bc520914851a99e
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_37
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 596
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7008ea2a0bde3142b7fb4746fd7de01
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_38
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 366
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9adbc4c32809ed4e84a03821e1ccf2e
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 162
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954d8f0211ea8394088613a282765267
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_40
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 786
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a7dc57836ac094e911fe85c4ccb25b
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 669
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aa4c313c591244881a6b5046813851
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 805
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6d8f0b0fa99d5438969d99bc6a023b
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 737
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825f047d582404e4090f368652838ffd
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 535
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640cd8a444f063146ad4dbabbb139e08
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 940
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab71b74db43bdeb49a2f389032ab1722
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 603
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73baa1f1e6ff424f8c2be73aa8ceb8b
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_47
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 671
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b9da9ba4a582b40bb54a4f33b074b0
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 738
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4812a804fced9814e9b9db9fcdb47264
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 872
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08967e094feea14c856970c5b986289
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 460
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8bfda09e80ea54ab53a1a9467a6f88
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_51
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 664
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312808a1c6fb7474abed5d6473a3073d
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_52
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 773
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e9bf077bb42c6418b34a1ebd6633a8
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_53
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 954
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7c745cb043db64190c593c23c9e10a
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_54
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 887
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5a0bdcd164cc741a742f87d6226d6e
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_55
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1021
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113bf737684390046a886bf9f7309c44
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_56
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1008
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4081c01b2c30f0c40b7eed19ba61b2cd
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 941
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de033658197f3414fb2ed269b9b80712
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_58
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 940
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b51cefef0a27242a9815be149b6a16
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_59
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 955
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3892bfa1a78e9a341ac17df8547a697c
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_60
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1022
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae6f4591d0aba04f8d15af5eae7cc73
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1076
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c14f23fae01004d91f6fbcaa5110b4
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_62
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 637
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2062b740a11b508469452e6a67e839cc
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1008
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175705cf07a85a846a6301c60a2f6c19
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_cao_64
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1007
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b689ab7ff4fb2d54cb6aa9d830d0ef71
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_lvcao_1
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 921
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a993dc899d304554f9ba7ecf466b3e61
+      internalID: 21300750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_lvcao_2
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 671
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e145cb0fb704d4f46b83addad9a7462e
+      internalID: 21300752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_lvcao_3
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 853
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8715e7c6b7459b44ebea9e7d362096f0
+      internalID: 21300754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_lvcao_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 705
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820fe12d6e20c094086612f5425b765d
+      internalID: 21300756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_1
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 723
+        width: 253
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5059289, y: 0.6796116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88f5fba69330f24aab909cfdf2310b3
+      internalID: 21300758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_2
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 377
+        width: 227
+        height: 107
+      alignment: 9
+      pivot: {x: 0.43612334, y: 0.5420561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6bec6d94e7d924b8423a5310a3bbff
+      internalID: 21300760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_3
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1792
+        width: 168
+        height: 124
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.47580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3de282eb465074194656d9dd81cc50
+      internalID: 21300762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_4
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 629
+        width: 238
+        height: 132
+      alignment: 9
+      pivot: {x: 0.53781515, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be088a64d776764b93fbc2798833f19
+      internalID: 21300764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_5
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 708
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e5283994b4844459b6a8cd95f8b857
+      internalID: 21300766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_6
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 566
+        width: 230
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5565217, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233c55584e2d0a6479f23617c1e70bd8
+      internalID: 21300768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_7
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 739
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214e0e5c9d2f7104f9aa28fcbbf69af2
+      internalID: 21300770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1907
+        width: 256
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e19bee318ec5224d976dc5c27a4977f
+      internalID: 21300772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1500
+        width: 224
+        height: 131
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.5038168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0f580c8acf43940b5213de63af9333
+      internalID: 21300774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1774
+        width: 231
+        height: 133
+      alignment: 9
+      pivot: {x: 0.44588745, y: 0.518797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5b6c5b517948d469a3cb127a4afc1d
+      internalID: 21300776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_11
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 446
+        width: 221
+        height: 121
+      alignment: 9
+      pivot: {x: 0.57918555, y: 0.46280992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e971f7e261c551243aaa695ee5c9ed75
+      internalID: 21300778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_12
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 798
+        width: 219
+        height: 133
+      alignment: 9
+      pivot: {x: 0.58447486, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79f9ccfab2b6e447828d6f9715fec04
+      internalID: 21300780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1832
+        width: 256
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a0024cf9d9e854eac27902a1626594
+      internalID: 21300782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_14
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1928
+        width: 238
+        height: 119
+      alignment: 9
+      pivot: {x: 0.53781515, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e84dfdd6735e743bd6d0bb5dc22337
+      internalID: 21300784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 204
+        width: 250
+        height: 121
+      alignment: 9
+      pivot: {x: 0.488, y: 0.5785124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb333656ac67ea41b55f5167d5eefca
+      internalID: 21300786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_tubian_16
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 347
+        width: 256
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5785124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0d28590e116ae41a8b955a73ae332d
+      internalID: 21300788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_1
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 922
+        width: 244
+        height: 130
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d3df2529a7744c8962d30698c013e
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_2
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 489
+        width: 246
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4796748, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1524c56117889a14d87458e62a52e779
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1715
+        width: 177
+        height: 119
+      alignment: 9
+      pivot: {x: 0.27683616, y: 0.53781515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301e3b40fda2a73468c89bdf915515f7
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_4
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1840
+        width: 256
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53435117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd74206313b0a9845a2f662e8ae02f47
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1915
+        width: 256
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebdc933a4a404d42a126494b970dc64
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_6
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 807
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924ab09855b537642b8b12c9700288b8
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_7
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 855
+        width: 256
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53488374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d1b4a0be3dad54780f8e07b2a1d430
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 634
+        width: 256
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5511811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e9648075966c646b7b38363c923b93
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_9
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 421
+        width: 254
+        height: 125
+      alignment: 9
+      pivot: {x: 0.496063, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6489f46d90959014abe6eb3e4ae5b416
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 392
+        width: 250
+        height: 130
+      alignment: 9
+      pivot: {x: 0.488, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5053e06f53bb84abac3c45c8f2bb53
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 149
+        width: 244
+        height: 117
+      alignment: 9
+      pivot: {x: 0.47540984, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbdf2a4cb807a244a0ba12b16bc8fa0
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 102
+        width: 225
+        height: 94
+      alignment: 9
+      pivot: {x: 0.46222222, y: 0.3617021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11022c4068b309c4e9116ccb98792cd0
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_13
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 563
+        width: 256
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52755904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74428db2a6150f47bf4052d04b16102
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_14
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 509
+        width: 233
+        height: 119
+      alignment: 9
+      pivot: {x: 0.45064378, y: 0.49579832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0325489e29551fb4e959916cb39d99ae
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_15
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 274
+        width: 249
+        height: 123
+      alignment: 9
+      pivot: {x: 0.48594376, y: 0.5691057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe1612a7e7ed4a4aa916ba25a338692
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 738
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14ea47c1b5d7ce4d9e5c798381bc631
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 806
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac18263d420990c42b0e57b2dfc529f0
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 873
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f836f4ec025d844a0ae497b7a8cf90
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_19
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 873
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51030dec10388c84caf1e9b0fc513720
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_xue_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 806
+        width: 256
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7237f0321f9f3144ae81d338382c67a
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      heitu_1: 21300790
+      heitu_10: 21300808
+      heitu_11: 21300810
+      heitu_12: 21300812
+      heitu_13: 21300814
+      heitu_14: 21300816
+      heitu_15: 21300818
+      heitu_16: 21300820
+      heitu_17: 21300822
+      heitu_18: 21300824
+      heitu_19: 21300826
+      heitu_2: 21300792
+      heitu_20: 21300828
+      heitu_21: 21300830
+      heitu_22: 21300832
+      heitu_23: 21300834
+      heitu_24: 21300836
+      heitu_25: 21300838
+      heitu_26: 21300840
+      heitu_27: 21300842
+      heitu_28: 21300844
+      heitu_29: 21300846
+      heitu_3: 21300794
+      heitu_30: 21300848
+      heitu_31: 21300850
+      heitu_32: 21300852
+      heitu_33: 21300854
+      heitu_34: 21300856
+      heitu_35: 21300858
+      heitu_36: 21300860
+      heitu_37: 21300862
+      heitu_38: 21300864
+      heitu_39: 21300866
+      heitu_4: 21300796
+      heitu_40: 21300868
+      heitu_41: 21300870
+      heitu_42: 21300872
+      heitu_43: 21300874
+      heitu_44: 21300876
+      heitu_45: 21300878
+      heitu_46: 21300880
+      heitu_47: 21300882
+      heitu_48: 21300884
+      heitu_49: 21300886
+      heitu_5: 21300798
+      heitu_50: 21300888
+      heitu_51: 21300890
+      heitu_52: 21300892
+      heitu_53: 21300894
+      heitu_54: 21300896
+      heitu_55: 21300898
+      heitu_56: 21300900
+      heitu_57: 21300902
+      heitu_58: 21300904
+      heitu_59: 21300906
+      heitu_6: 21300800
+      heitu_60: 21300908
+      heitu_61: 21300910
+      heitu_62: 21300912
+      heitu_63: 21300914
+      heitu_64: 21300916
+      heitu_7: 21300802
+      heitu_8: 21300804
+      heitu_9: 21300806
+      world_cao_1: 21300000
+      world_cao_10: 21300366
+      world_cao_11: 21300368
+      world_cao_12: 21300370
+      world_cao_13: 21300372
+      world_cao_14: 21300374
+      world_cao_15: 21300376
+      world_cao_16: 21300378
+      world_cao_17: 21300380
+      world_cao_18: 21300382
+      world_cao_19: 21300384
+      world_cao_2: 21300002
+      world_cao_20: 21300386
+      world_cao_21: 21300388
+      world_cao_22: 21300390
+      world_cao_23: 21300392
+      world_cao_24: 21300394
+      world_cao_25: 21300396
+      world_cao_26: 21300398
+      world_cao_27: 21300400
+      world_cao_28: 21300402
+      world_cao_29: 21300404
+      world_cao_3: 21300004
+      world_cao_30: 21300406
+      world_cao_31: 21300408
+      world_cao_32: 21300410
+      world_cao_33: 21300412
+      world_cao_34: 21300414
+      world_cao_35: 21300416
+      world_cao_36: 21300418
+      world_cao_37: 21300420
+      world_cao_38: 21300422
+      world_cao_39: 21300424
+      world_cao_4: 21300006
+      world_cao_40: 21300426
+      world_cao_41: 21300428
+      world_cao_42: 21300430
+      world_cao_43: 21300432
+      world_cao_44: 21300434
+      world_cao_45: 21300436
+      world_cao_46: 21300438
+      world_cao_47: 21300440
+      world_cao_48: 21300442
+      world_cao_49: 21300444
+      world_cao_5: 21300356
+      world_cao_50: 21300446
+      world_cao_51: 21300448
+      world_cao_52: 21300450
+      world_cao_53: 21300452
+      world_cao_54: 21300454
+      world_cao_55: 21300456
+      world_cao_56: 21300458
+      world_cao_57: 21300460
+      world_cao_58: 21300462
+      world_cao_59: 21300464
+      world_cao_6: 21300358
+      world_cao_60: 21300466
+      world_cao_61: 21300468
+      world_cao_62: 21300470
+      world_cao_63: 21300472
+      world_cao_64: 21300474
+      world_cao_7: 21300360
+      world_cao_8: 21300362
+      world_cao_9: 21300364
+      world_lvcao_1: 21300750
+      world_lvcao_2: 21300752
+      world_lvcao_3: 21300754
+      world_lvcao_4: 21300756
+      world_tubian_1: 21300758
+      world_tubian_10: 21300776
+      world_tubian_11: 21300778
+      world_tubian_12: 21300780
+      world_tubian_13: 21300782
+      world_tubian_14: 21300784
+      world_tubian_15: 21300786
+      world_tubian_16: 21300788
+      world_tubian_2: 21300760
+      world_tubian_3: 21300762
+      world_tubian_4: 21300764
+      world_tubian_5: 21300766
+      world_tubian_6: 21300768
+      world_tubian_7: 21300770
+      world_tubian_8: 21300772
+      world_tubian_9: 21300774
+      world_xue_1: 21300140
+      world_xue_10: 21300158
+      world_xue_11: 21300160
+      world_xue_12: 21300162
+      world_xue_13: 21300164
+      world_xue_14: 21300166
+      world_xue_15: 21300168
+      world_xue_16: 21300170
+      world_xue_17: 21300172
+      world_xue_18: 21300174
+      world_xue_19: 21300176
+      world_xue_2: 21300142
+      world_xue_20: 21300178
+      world_xue_3: 21300144
+      world_xue_4: 21300146
+      world_xue_5: 21300148
+      world_xue_6: 21300150
+      world_xue_7: 21300152
+      world_xue_8: 21300154
+      world_xue_9: 21300156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: rawassets/map/surface
+  assetBundleVariant: 

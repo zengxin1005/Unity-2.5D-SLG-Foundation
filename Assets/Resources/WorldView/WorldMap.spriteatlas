@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WorldMap
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9a0f6435620f7604bbdf81daa0c71166, type: 3}
+    - {fileID: 2800000, guid: 8e7e928592cfe8c4eba73b1052d6b2e1, type: 3}
+    - {fileID: 2800000, guid: 9759a726c0a3d4f498d662cbf03bebdb, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 713a0f45470967947a491e3469a03b42: 21300000
+    - e24d94b583616b342a76e1f64bd32bf7: 21300000
+    - 73d42e96191cf564383351f03e100c10: 21300000
+    - 01be866a6a4045f4fae1f8880a265269: 21300000
+    - f5813cca49eb4f24c80aef4cb955d64f: 21300000
+    - 6fb54d1d041a6cc40b87e8461512ed7d: 21300000
+    - 2695cf2d2a8031b448796b6fadbeed7d: 21300000
+    - 11dedbde4ccca794ca0919ad060129ed: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 713a0f45470967947a491e3469a03b42, type: 3}
+  - {fileID: 21300000, guid: e24d94b583616b342a76e1f64bd32bf7, type: 3}
+  - {fileID: 21300000, guid: 73d42e96191cf564383351f03e100c10, type: 3}
+  - {fileID: 21300000, guid: 01be866a6a4045f4fae1f8880a265269, type: 3}
+  - {fileID: 21300000, guid: f5813cca49eb4f24c80aef4cb955d64f, type: 3}
+  - {fileID: 21300000, guid: 6fb54d1d041a6cc40b87e8461512ed7d, type: 3}
+  - {fileID: 21300000, guid: 2695cf2d2a8031b448796b6fadbeed7d, type: 3}
+  - {fileID: 21300000, guid: 11dedbde4ccca794ca0919ad060129ed, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - battlefield_img_03
+  - battlefield_img_02
+  - battlefield_img_05
+  - battlefield_img_06
+  - battlefield_img_07
+  - battlefield_img_01
+  - battlefield_img_08
+  - battlefield_img_09
+  m_RenderDataMap: {}
+  m_Tag: WorldMap
+  m_IsVariant: 0

@@ -1,0 +1,14 @@
+# Rider
+.idea/
+
+# Visual Studio cache directory
+.vs/
+
+Temp/
+Logs/
+Library/
+obj/
+
+*.csproj
+*.sln
+UserSettings/
