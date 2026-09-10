@@ -8,7 +8,7 @@
 滚动/缩放事件驱动格子（Tile）生命周期：只对进入“屏幕 + 边缘缓冲区”的格子做实例化，离开即回收。内存中永远只持有视口内的渲染对象。
 
 (2)  行军线按需采样
-支持直线与任意折线路径（路径绘制与寻路网格解耦，采样通用）；采样与箭头布点只针对视口内可见片段计算，屏幕外的路径不产生任何开销。
+支持直线与任意折线路径（路径绘制与寻路网格解耦，采样通用）；采样与箭头布点只针对视口内可见片段计算，屏幕外的路径不产生任何开销,一次合批。
 
 (3)   物件层同构复用
 城池等物件与行军线共用同一套“视口驱动 + 对象池”机制，进出屏由格子生命周期统一调度，同屏渲染对象数量恒定在视口规模内。
@@ -42,11 +42,6 @@
 <img width="1008" height="515" alt="8b1d18e4657c15b8ef1472f6efb5a8de" src="https://github.com/user-attachments/assets/a08920ea-fb85-4a8b-8d5b-acddf4a2f63e" />
 <img width="1093" height="461" alt="d23b76e1bee0234a85345ddc51742f0f" src="https://github.com/user-attachments/assets/6ca5f574-d625-4585-838c-2faca798c815" />
 <img width="1090" height="415" alt="efedd23ceda39d885d489391eb8940f9" src="https://github.com/user-attachments/assets/3d6c8065-9810-47d6-b909-3c0c0cba2005" />
-
-
-
-
-
 
 
 
