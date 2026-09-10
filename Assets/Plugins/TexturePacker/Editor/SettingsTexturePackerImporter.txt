@@ -1,21 +1,6 @@
 version: 2
 importPivots: 1
 tpsheetFileNames:
-
-- Assets/Plugins/TexturePacker/Example/SpriteSheet/sprites.tpsheet
-- Assets/Resources/WorldMap/surface.tpsheet
-- Assets/Resources/WorldMap/surface3.tpsheet
-- Assets/Resources/WorldMap/surface4.tpsheet
 textureFileNames:
-
-- Assets/Plugins/TexturePacker/Example/SpriteSheet/sprites.png
-- Assets/Resources/WorldMap/surface.png
-- Assets/Resources/WorldMap/surface3.png
-- Assets/Resources/WorldMap/surface4.png
 normalmapFileNames:
-
-- Assets/Plugins/TexturePacker/Example/SpriteSheet/sprites_n.png
-- 
-- 
-- 
 enableDebugOutput: 0
