@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="right-down" width="47" height="47" tilewidth="254" tileheight="127" nextobjectid="1">
+ <tileset firstgid="1" name="dibiao" tilewidth="256" tileheight="140" tilecount="90" columns="0">
+  <tile id="283">
+   <image width="256" height="140" source="surface/sha_1.png"/>
+  </tile>
+  <tile id="284">
+   <image width="256" height="140" source="surface/sha_2.png"/>
+  </tile>
+  <tile id="285">
+   <image width="256" height="140" source="surface/sha_3.png"/>
+  </tile>
+  <tile id="286">
+   <image width="256" height="140" source="surface/sha_4.png"/>
+  </tile>
+  <tile id="287">
+   <image width="256" height="140" source="surface/sha_5.png"/>
+  </tile>
+  <tile id="288">
+   <image width="256" height="140" source="surface/sha_6.png"/>
+  </tile>
+  <tile id="289">
+   <image width="256" height="140" source="surface/sha_7.png"/>
+  </tile>
+  <tile id="290">
+   <image width="256" height="140" source="surface/sha_8.png"/>
+  </tile>
+  <tile id="291">
+   <image width="256" height="140" source="surface/sha_9.png"/>
+  </tile>
+  <tile id="292">
+   <image width="256" height="140" source="surface/sha_10.png"/>
+  </tile>
+  <tile id="293">
+   <image width="256" height="140" source="surface/sha_11.png"/>
+  </tile>
+  <tile id="294">
+   <image width="256" height="140" source="surface/sha_12.png"/>
+  </tile>
+  <tile id="295">
+   <image width="256" height="140" source="surface/sha_13.png"/>
+  </tile>
+  <tile id="296">
+   <image width="256" height="140" source="surface/sha_14.png"/>
+  </tile>
+  <tile id="297">
+   <image width="256" height="140" source="surface/sha_15.png"/>
+  </tile>
+  <tile id="298">
+   <image width="256" height="140" source="surface/sha_16.png"/>
+  </tile>
+  <tile id="299">
+   <image width="256" height="140" source="surface/sha_17.png"/>
+  </tile>
+  <tile id="300">
+   <image width="256" height="140" source="surface/sha_18.png"/>
+  </tile>
+  <tile id="301">
+   <image width="256" height="140" source="surface/sha_19.png"/>
+  </tile>
+  <tile id="302">
+   <image width="256" height="140" source="surface/sha_20.png"/>
+  </tile>
+  <tile id="303">
+   <image width="256" height="140" source="surface/sha_21.png"/>
+  </tile>
+  <tile id="304">
+   <image width="256" height="140" source="surface/sha_22.png"/>
+  </tile>
+  <tile id="305">
+   <image width="256" height="140" source="surface/sha_23.png"/>
+  </tile>
+  <tile id="306">
+   <image width="256" height="140" source="surface/sha_24.png"/>
+  </tile>
+  <tile id="307">
+   <image width="256" height="140" source="surface/sha_25.png"/>
+  </tile>
+  <tile id="308">
+   <image width="256" height="140" source="surface/sha_26.png"/>
+  </tile>
+  <tile id="309">
+   <image width="256" height="140" source="surface/sha_27.png"/>
+  </tile>
+  <tile id="310">
+   <image width="256" height="140" source="surface/tu_1.png"/>
+  </tile>
+  <tile id="311">
+   <image width="256" height="140" source="surface/tu_2.png"/>
+  </tile>
+  <tile id="312">
+   <image width="256" height="140" source="surface/tu_3.png"/>
+  </tile>
+  <tile id="313">
+   <image width="256" height="140" source="surface/tu_4.png"/>
+  </tile>
+  <tile id="314">
+   <image width="256" height="140" source="surface/tu_5.png"/>
+  </tile>
+  <tile id="315">
+   <image width="256" height="140" source="surface/tu_6.png"/>
+  </tile>
+  <tile id="316">
+   <image width="256" height="140" source="surface/tu_7.png"/>
+  </tile>
+  <tile id="317">
+   <image width="256" height="140" source="surface/tu_8.png"/>
+  </tile>
+  <tile id="318">
+   <image width="256" height="140" source="surface/tu_9.png"/>
+  </tile>
+  <tile id="319">
+   <image width="256" height="140" source="surface/tu_10.png"/>
+  </tile>
+  <tile id="320">
+   <image width="256" height="140" source="surface/tu_11.png"/>
+  </tile>
+  <tile id="321">
+   <image width="256" height="140" source="surface/tu_12.png"/>
+  </tile>
+  <tile id="322">
+   <image width="256" height="140" source="surface/tu_13.png"/>
+  </tile>
+  <tile id="323">
+   <image width="256" height="140" source="surface/tu_14.png"/>
+  </tile>
+  <tile id="324">
+   <image width="256" height="140" source="surface/tu_15.png"/>
+  </tile>
+  <tile id="325">
+   <image width="256" height="140" source="surface/tu_16.png"/>
+  </tile>
+  <tile id="326">
+   <image width="256" height="140" source="surface/tu_17.png"/>
+  </tile>
+  <tile id="327">
+   <image width="256" height="140" source="surface/tu_18.png"/>
+  </tile>
+  <tile id="328">
+   <image width="256" height="140" source="surface/tu_19.png"/>
+  </tile>
+  <tile id="329">
+   <image width="256" height="140" source="surface/tu_20.png"/>
+  </tile>
+  <tile id="330">
+   <image width="256" height="140" source="surface/tu_21.png"/>
+  </tile>
+  <tile id="331">
+   <image width="256" height="140" source="surface/tu_22.png"/>
+  </tile>
+  <tile id="332">
+   <image width="256" height="140" source="surface/tu_23.png"/>
+  </tile>
+  <tile id="333">
+   <image width="256" height="140" source="surface/tu_24.png"/>
+  </tile>
+  <tile id="334">
+   <image width="256" height="140" source="surface/tu_25.png"/>
+  </tile>
+  <tile id="335">
+   <image width="256" height="140" source="surface/tu_26.png"/>
+  </tile>
+  <tile id="336">
+   <image width="256" height="140" source="surface/tu_27.png"/>
+  </tile>
+  <tile id="337">
+   <image width="256" height="140" source="surface/tu_28.png"/>
+  </tile>
+  <tile id="338">
+   <image width="256" height="140" source="surface/tu_29.png"/>
+  </tile>
+  <tile id="339">
+   <image width="256" height="140" source="surface/tu_30.png"/>
+  </tile>
+  <tile id="340">
+   <image width="256" height="140" source="surface/tu_31.png"/>
+  </tile>
+  <tile id="341">
+   <image width="256" height="140" source="surface/tu_32.png"/>
+  </tile>
+  <tile id="342">
+   <image width="256" height="140" source="surface/tu_33.png"/>
+  </tile>
+  <tile id="343">
+   <image width="256" height="140" source="surface/tu_34.png"/>
+  </tile>
+  <tile id="344">
+   <image width="256" height="140" source="surface/tu_35.png"/>
+  </tile>
+  <tile id="345">
+   <image width="256" height="140" source="surface/tu_36.png"/>
+  </tile>
+  <tile id="346">
+   <image width="256" height="140" source="surface/tu_37.png"/>
+  </tile>
+  <tile id="347">
+   <image width="256" height="140" source="surface/xue_1.png"/>
+  </tile>
+  <tile id="348">
+   <image width="256" height="140" source="surface/xue_2.png"/>
+  </tile>
+  <tile id="349">
+   <image width="256" height="140" source="surface/xue_3.png"/>
+  </tile>
+  <tile id="350">
+   <image width="256" height="140" source="surface/xue_4.png"/>
+  </tile>
+  <tile id="351">
+   <image width="256" height="140" source="surface/xue_5.png"/>
+  </tile>
+  <tile id="352">
+   <image width="256" height="140" source="surface/xue_6.png"/>
+  </tile>
+  <tile id="353">
+   <image width="256" height="140" source="surface/xue_7.png"/>
+  </tile>
+  <tile id="354">
+   <image width="256" height="140" source="surface/xue_8.png"/>
+  </tile>
+  <tile id="355">
+   <image width="256" height="140" source="surface/xue_9.png"/>
+  </tile>
+  <tile id="356">
+   <image width="256" height="140" source="surface/xue_10.png"/>
+  </tile>
+  <tile id="357">
+   <image width="256" height="140" source="surface/xue_11.png"/>
+  </tile>
+  <tile id="358">
+   <image width="256" height="140" source="surface/xue_12.png"/>
+  </tile>
+  <tile id="359">
+   <image width="256" height="140" source="surface/xue_13.png"/>
+  </tile>
+  <tile id="360">
+   <image width="256" height="140" source="surface/xue_14.png"/>
+  </tile>
+  <tile id="361">
+   <image width="256" height="140" source="surface/xue_15.png"/>
+  </tile>
+  <tile id="362">
+   <image width="256" height="140" source="surface/xue_16.png"/>
+  </tile>
+  <tile id="363">
+   <image width="256" height="140" source="surface/xue_17.png"/>
+  </tile>
+  <tile id="364">
+   <image width="256" height="140" source="surface/xue_18.png"/>
+  </tile>
+  <tile id="365">
+   <image width="256" height="140" source="surface/xue_19.png"/>
+  </tile>
+  <tile id="366">
+   <image width="256" height="140" source="surface/xue_20.png"/>
+  </tile>
+  <tile id="367">
+   <image width="256" height="140" source="surface/xue_21.png"/>
+  </tile>
+  <tile id="368">
+   <image width="256" height="140" source="surface/xue_22.png"/>
+  </tile>
+  <tile id="370">
+   <image width="256" height="140" source="surface/xue_24.png"/>
+  </tile>
+  <tile id="371">
+   <image width="256" height="140" source="surface/xue_25.png"/>
+  </tile>
+  <tile id="372">
+   <image width="256" height="140" source="surface/xue_23.png"/>
+  </tile>
+  <tile id="373">
+   <image width="256" height="140" source="surface/xue_26.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="375" name="dibiao2" tilewidth="256" tileheight="140" tilecount="47" columns="0">
+  <tile id="0">
+   <image width="256" height="140" source="surface2/hei_1.png"/>
+  </tile>
+  <tile id="1">
+   <image width="256" height="140" source="surface2/hei_2.png"/>
+  </tile>
+  <tile id="2">
+   <image width="256" height="140" source="surface2/hei_3.png"/>
+  </tile>
+  <tile id="3">
+   <image width="256" height="140" source="surface2/hei_4.png"/>
+  </tile>
+  <tile id="4">
+   <image width="256" height="140" source="surface2/hei_5.png"/>
+  </tile>
+  <tile id="5">
+   <image width="256" height="140" source="surface2/hei_6.png"/>
+  </tile>
+  <tile id="6">
+   <image width="256" height="140" source="surface2/hei_7.png"/>
+  </tile>
+  <tile id="7">
+   <image width="256" height="140" source="surface2/hei_8.png"/>
+  </tile>
+  <tile id="8">
+   <image width="256" height="140" source="surface2/hei_9.png"/>
+  </tile>
+  <tile id="9">
+   <image width="256" height="140" source="surface2/lv_1.png"/>
+  </tile>
+  <tile id="10">
+   <image width="256" height="140" source="surface2/lv_2.png"/>
+  </tile>
+  <tile id="11">
+   <image width="256" height="140" source="surface2/lv_3.png"/>
+  </tile>
+  <tile id="12">
+   <image width="256" height="140" source="surface2/lv_4.png"/>
+  </tile>
+  <tile id="13">
+   <image width="256" height="140" source="surface2/lv_5.png"/>
+  </tile>
+  <tile id="14">
+   <image width="256" height="140" source="surface2/lv_6.png"/>
+  </tile>
+  <tile id="15">
+   <image width="256" height="140" source="surface2/lv_7.png"/>
+  </tile>
+  <tile id="16">
+   <image width="256" height="140" source="surface2/lv_8.png"/>
+  </tile>
+  <tile id="17">
+   <image width="256" height="140" source="surface2/lv_9.png"/>
+  </tile>
+  <tile id="18">
+   <image width="256" height="140" source="surface2/lv_10.png"/>
+  </tile>
+  <tile id="19">
+   <image width="256" height="140" source="surface2/lv_11.png"/>
+  </tile>
+  <tile id="20">
+   <image width="256" height="140" source="surface2/lv_12.png"/>
+  </tile>
+  <tile id="21">
+   <image width="256" height="140" source="surface2/lv_13.png"/>
+  </tile>
+  <tile id="22">
+   <image width="256" height="140" source="surface2/lv_14.png"/>
+  </tile>
+  <tile id="23">
+   <image width="256" height="140" source="surface2/lv_15.png"/>
+  </tile>
+  <tile id="24">
+   <image width="256" height="140" source="surface2/lv_16.png"/>
+  </tile>
+  <tile id="25">
+   <image width="256" height="140" source="surface2/lv_17.png"/>
+  </tile>
+  <tile id="26">
+   <image width="256" height="140" source="surface2/lv_18.png"/>
+  </tile>
+  <tile id="27">
+   <image width="256" height="140" source="surface2/lv_19.png"/>
+  </tile>
+  <tile id="28">
+   <image width="256" height="140" source="surface2/lv_20.png"/>
+  </tile>
+  <tile id="29">
+   <image width="256" height="140" source="surface2/lv_21.png"/>
+  </tile>
+  <tile id="30">
+   <image width="256" height="140" source="surface2/lv_22.png"/>
+  </tile>
+  <tile id="31">
+   <image width="256" height="140" source="surface2/lv_23.png"/>
+  </tile>
+  <tile id="32">
+   <image width="256" height="140" source="surface2/lv_24.png"/>
+  </tile>
+  <tile id="33">
+   <image width="256" height="140" source="surface2/lv_25.png"/>
+  </tile>
+  <tile id="34">
+   <image width="256" height="140" source="surface2/lv_26.png"/>
+  </tile>
+  <tile id="35">
+   <image width="256" height="140" source="surface2/lv_27.png"/>
+  </tile>
+  <tile id="36">
+   <image width="256" height="140" source="surface2/lv_28.png"/>
+  </tile>
+  <tile id="37">
+   <image width="256" height="140" source="surface2/lv_29.png"/>
+  </tile>
+  <tile id="38">
+   <image width="256" height="140" source="surface2/lv_30.png"/>
+  </tile>
+  <tile id="39">
+   <image width="256" height="140" source="surface2/lv_31.png"/>
+  </tile>
+  <tile id="40">
+   <image width="256" height="140" source="surface2/lv_32.png"/>
+  </tile>
+  <tile id="41">
+   <image width="256" height="140" source="surface2/lv_33.png"/>
+  </tile>
+  <tile id="42">
+   <image width="256" height="140" source="surface2/lv_34.png"/>
+  </tile>
+  <tile id="43">
+   <image width="256" height="140" source="surface2/lv_35.png"/>
+  </tile>
+  <tile id="44">
+   <image width="256" height="140" source="surface2/lv_36.png"/>
+  </tile>
+  <tile id="45">
+   <image width="256" height="140" source="surface2/lv_37.png"/>
+  </tile>
+  <tile id="46">
+   <image width="256" height="140" source="surface2/lv_38.png"/>
+  </tile>
+ </tileset>
+ <layer name="surface" width="47" height="47">
+  <data encoding="base64" compression="zlib">
+   eJytmeV2HDEMRqv3KLcpc9KUmZmZOaW0PWVmZmZu37Ofz47PKq4ky5P8uGc3mtld2SPd8TgnqVevTnAyQYpFjhvHjoAVYDhoAxMr2tn7VvZeOp7SlvwdPx9/84SRTwlnwTqwHgxV8uV5pnlpY5PwzHMJp8EWsBUMM/LrCbQc0uvgHdtRMAVMpf/rpqRONPg14bladewl1PssMBvMoWbdeOtdqi2t3jz5eMd0hhr1vgAsBIuoWTfa71s9mcbS3i+tde3cGA/1vgwsJ9k3uZrpqXkvqaF4bqiZNWAtNXwzAoxUck9z0uZYi3ny8vrzMNgINoHN1PTNKDCadPelOUm9kV6jduH36xLG10ENv0wD08EkMJka3hkDxip5aP1r9UZrN+c5dSP3y1wwA8xk8XFGvlKOWp/EeN36ltzI/bIYzAPzk/j4TF7WXKdj1ubZu54J74+BpdTVLyvBEiWec77lfz7m0vlNxxRqZRVYTV39st6IW87PuYafW7cvea1sINkvWjx1vuUZC6nOrV7tZK/Biduoq080z/C45fyS2q+zfoxj7ahyT32ieSbGw2c053vuwen6vYSD4BCbR8knmmcWs+uhOd9at/GxnaryOJfJMx4/IMyj5JPX4I0QX5lcj9T5Oe/zY32q707HEHOO8xWPS/PIffISvAK/wFvwjv73THo9ovMtz6S1FP/uXY1hHcuxxNfRJ8/BC/Cnyj3wG7wHH8BHanhG+p4JZHvf6tnWKv+tVO7r0HvPWL4Wn4zv8a7125Vj8RqU+HpbxdNqnkOO58EFcBH8reJfwGfje3Le9/q0LxuH19tP2PxeApfBFRb7So3erut97z5IWzKOfpT39mOW51VwDVynZv1/o0ZvW/cDzfuWb6w+CK+DKe/tR6TX+Xdq9nbufpBb61vzLX2mhWzfPAAPqVnv8TXwE/ygZk9qvuJxa61v3Q+0NegQsn1zH9wDd8FtcAvcBDeoa096PSat9XP9y2s9/dvyUPTNHbLXaJpnpHjO+55rkcZi/1o5WmuxwB6wF+wD+433w0iuA6nupWdy6X1/MMDIUevJkPdu8j9ner3v3YONdTQQDFJy1HpyF5Xtd1reT+tbWndaew3RoWmOWk/uzOQqXYvcHo/nWUs7p0XIUevJHUaOFpL3tb2ekn3E6FCeo9bD21k+pXtB3PuefTath/nnY11x/2g9vNPIzTMWvt734N1LDOdF/2ieiTVT5xk5MkGYT2uOS/og+kfyDK+Z7uCZY2k8PGZ5KfhH8kxpnp3Jq5a7p1akWtf8o3mmJ+e9O57XeiH6R/IMn0OPLzuTc70OtI7n1kghFmrH45lcj3K4x3Oe9+75S+eH2umOZyTi7+Qc6L0PWNcs1E7OMyX3qhIPlqA9AwwpnHepZmKM/39Nc2Cd41pNxdr31nTdea/zbOLp55aauab8A/a3ou0=
+  </data>
+ </layer>
+</map>
