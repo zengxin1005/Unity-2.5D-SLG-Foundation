@@ -45,6 +45,12 @@
 
 
 
+
+
+
+
+
+
 未来优化：
 O(n) Contains、FindSegment 线扫、每帧 SetVertices
 
